@@ -1,0 +1,6 @@
+logging:
+  level: INFO
+  loggers:
+    com.dropwizard: DEBUG
+server:
+  rootPath: /api/*
